@@ -1,0 +1,9 @@
+{
+    "name": "youcode/backend",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\Backend\\": "src/"
+        }
+    },
+    "require": {}
+}
